@@ -83,7 +83,6 @@
 }
 .button03:hover{
   background-color: #87C232;
-  transition: opacity 0.1s;
 }
 .button03:active {
   opacity: 0.75;
